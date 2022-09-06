@@ -4,7 +4,7 @@ This application mimics basic functionality of a streaming service (Netflix, Ama
 
 ## Example Of How It Works
 
-File example.ts includes example of application setup and work. To run it:
+File [example.ts](https://github.com/viktor-vlasenko/incora-test-task/blob/master/example.ts) includes example of application setup and work. To run it:
 
 1. Install Dependencies
 `npm install`
